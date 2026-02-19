@@ -34,12 +34,13 @@ Yet each dataset tells a completely different story:
 
 ```
 .
-├── anscombe_quartet.tsv      # Source data (4 datasets, 11 points each)
-├── anscombe_analysis.ipynb   # Executed Jupyter notebook with analysis and plots
-├── plot1_scatter.png         # 2×2 scatter plot grid
-├── plot2_stats_bars.png      # Summary statistics bar chart
-├── plot3_residuals.png       # Residual plots (2×2 grid)
-├── File Plan                 # Original project plan and proposal
+├── Anscombe/
+│   ├── anscombe_quartet.tsv      # Source data (4 datasets, 11 points each)
+│   ├── anscombe_analysis.ipynb   # Executed Jupyter notebook with analysis and plots
+│   ├── plot1_scatter.png         # 2×2 scatter plot grid
+│   ├── plot2_stats_bars.png      # Summary statistics bar chart
+│   ├── plot3_residuals.png       # Residual plots (2×2 grid)
+│   └── File Plan                 # Original project plan and proposal
 └── README.md
 ```
 
@@ -61,13 +62,13 @@ Yet each dataset tells a completely different story:
 ## Plots
 
 ### Plot 1 — Scatter Plots
-![Scatter plots](plot1_scatter.png)
+![Scatter plots](Anscombe/plot1_scatter.png)
 
 ### Plot 2 — Summary Statistics
-![Summary statistics](plot2_stats_bars.png)
+![Summary statistics](Anscombe/plot2_stats_bars.png)
 
 ### Plot 3 — Residual Plots
-![Residual plots](plot3_residuals.png)
+![Residual plots](Anscombe/plot3_residuals.png)
 
 ---
 
