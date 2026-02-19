@@ -1,6 +1,9 @@
 # Literature Search
 
 ## Goal
-
+- Conduct a comprehensive literature search on the nueropeptide Y1 receptor between 1995 and 2026 
 ## Implementation
-
+- Use MCP server
+- Create a markdown file with one paragraph per paper found in the literature search.
+- Each paragraph will contain the paper title, link, 1st authors, and a brief summary 
+- For each paper found, validate that the paper is real and not a hallucination
